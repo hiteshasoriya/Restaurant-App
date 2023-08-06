@@ -1,0 +1,163 @@
+
+
+input{
+  margin-top: 10px;
+}
+
+.delete{
+  margin-left: 30px;
+  cursor: pointer;
+}
+
+.edit{
+  margin-left: 10px;
+}
+
+.homeimg{
+  height: 91.5vh;
+  width: 100%;
+}
+
+.searchedit{
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.input-test{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.input-test > input{
+  height: 50px;
+  width: 600px;
+}
+
+
+.createinp > input{
+    width: 600px;
+    height: 50px;
+}
+
+.createinp{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  /* background: #000; */
+  align-items: center;
+  margin-top: 30px;
+
+}
+
+.createinp > button{
+  width: 250px;
+  height: 50px;
+}
+
+.createcon > h1{
+  text-align: center;
+}
+
+.login-box{
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+
+.login-box > input{
+  height: 50px;
+  margin: 20px;
+  width: 500px;
+ border-radius: 5px;
+ border: none;
+}
+
+.login{
+  background: aqua;
+  display: flex;
+  justify-content: center;
+  height: 91.5vh;
+}
+
+.login-box > button {
+  width: 100px;
+  height: 50px;
+  background: palevioletred;
+  color: beige;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+.login-box > span{
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.mobileth{
+  display: none;
+}
+
+
+@media screen and (max-width: 400px) {
+  .createinp > input{
+    width: 300px;
+    height: 40px;
+}
+
+.homeimg{
+  height: 89.1vh;
+}
+
+nav a {
+  display: flex;
+  flex-direction: column;
+}
+
+.table-dark{
+  width: 100px;
+}
+
+.login{
+  height: 89vh;
+}
+
+.login-box > input{
+  height: 50px;
+  margin: 20px;
+  width: 280px;
+}
+
+Navbar{
+  width: fit-content;
+}
+
+thead{
+  display: none;
+}
+
+th{
+  margin-right: 10px;
+}
+
+tbody{
+  display: flex;
+  flex-direction: column;
+}
+
+td{
+  display: flex;
+    flex-direction: inherit;
+    width: 386  px;
+}
+
+.mobileth{
+  display: block;
+}
+
+
+}

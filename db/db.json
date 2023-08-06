@@ -1,0 +1,72 @@
+{
+  "login": [
+    {
+      "name": "hitesh",
+      "password": "12345"
+    },
+    {
+      "name": "happy",
+      "password": "123",
+      "id": "Ld6zjhH"
+    },
+    {
+      "name": "mukesh",
+      "password": "12",
+      "id": "6FCCOm1"
+    },
+    {
+      "name": "dhruv",
+      "password": "55555",
+      "id": "JrvpUqs"
+    },
+    {
+      "name": "hitesh",
+      "password": "12345",
+      "id": "WHWzbP1"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "jodhpur",
+      "rating": "4.0",
+      "email": "McDonald@text.com"
+    },
+    {
+      "id": 4,
+      "name": "BBQ nation",
+      "address": "Gurgaon",
+      "rating": "4.5",
+      "email": "BBQnation@text.com"
+    },
+    {
+      "id": 5,
+      "name": "HaldiRam",
+      "address": "Gurgaon",
+      "rating": "4.1",
+      "email": "haldiram123@text.com"
+    },
+    {
+      "id": 6,
+      "name": "Coffee Beans",
+      "address": "Pali",
+      "rating": "4.3",
+      "email": "cofeebeans@text.com"
+    },
+    {
+      "name": "onebite ",
+      "email": "onebite@test.com",
+      "rating": "2.0",
+      "address": "goa",
+      "id": 9
+    },
+    {
+      "name": "Tea Bar",
+      "email": "teabar@test.com",
+      "rating": "4.0",
+      "address": "pali",
+      "id": 10
+    }
+  ]
+}
